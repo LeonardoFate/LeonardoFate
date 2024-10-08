@@ -8,10 +8,13 @@
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I study at the Universidad Politécnica Salesiana.\
-🌱 &nbsp;In my free time, I enjoy listening to music, playing video games, and playing football or basketball.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.  
+🎓 &nbsp;I study at the Universidad Politécnica Salesiana.  
+🌱 &nbsp;In my free time, I enjoy listening to music, playing video games, and playing football or basketball.
+
+
 <br>
 <br>
 <br>
