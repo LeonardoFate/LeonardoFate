@@ -12,7 +12,7 @@
 🎓 &nbsp;I study at the Universidad Politécnica Salesiana.\
 🌱 &nbsp;In my free time, I enjoy listening to music, playing video games, and playing football or basketball.\
 
-### 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack
 ## Front-End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
