@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### <h3 align="center">🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack</h3>
 <br>
 
 ## Front-End
