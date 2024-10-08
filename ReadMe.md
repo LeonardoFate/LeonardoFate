@@ -4,15 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!;I+love+coding!">
   </a>
 </p>
+
 <br>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I study at the Universidad Politécnica Salesiana.\
 🌱 &nbsp;In my free time, I enjoy listening to music, playing video games, and playing football or basketball.\
+<br>
+<br>
+<br>
 
-# 🛠 &nbsp;Tech Stack
+### <h3 align="center">🛠 &nbsp;Tech Stack</h3>
+<br>
+
 ## Front-End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
