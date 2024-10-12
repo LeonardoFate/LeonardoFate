@@ -59,5 +59,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeonardoFate&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 [![Profile Views](https://visitcount.itsvg.in/api?id=LeonardoFate&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 
