@@ -61,6 +61,4 @@
 </a>
 </p>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=LeonardoFate&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
 
